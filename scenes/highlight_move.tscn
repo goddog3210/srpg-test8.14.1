@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://b7asb1s0sgj8l"]
+
+[node name="HighlightMove" type="ColorRect"]
+modulate = Color(1, 1, 1, 0.47451)
+offset_right = 16.0
+offset_bottom = 16.0
+color = Color(0.294118, 0.521569, 0.92549, 1)
